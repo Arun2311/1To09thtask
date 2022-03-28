@@ -1,0 +1,54 @@
+.underline {
+    width: 6rem;
+    height: 0.25rem;
+    background: #49a6e9;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+  }
+  .text-right {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .text-left {
+    margin-left: 600px;
+    color: green;
+  }
+  .text-center {
+    color: #102a3f;
+  }
+  .size {
+    width: 750px;
+    border: 5px solid rgb(255, 255, 255);
+    padding: 50px;
+    margin: 20px;
+    margin-left: 350px;
+    border-top: none;
+    margin-top: 2px;
+  }
+  
+  u {
+    text-decoration: underline;
+    text-decoration-color: rgb(62, 137, 207);
+  }
+  
+  .singleimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+    width: 600px;
+  }
+  .info {
+    margin-bottom: 100px;
+    margin-left: 70px;
+  
+    color: gray;
+  }
+  .border {
+    width: 1000px;
+    height: 1000px;
+  }
+  .text {
+    margin-left: 50px;
+  }

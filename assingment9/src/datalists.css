@@ -1,0 +1,44 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: palevioletred;
+  }
+  
+  .birthday {
+    display: grid;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 32%;
+    margin-right: 35%;
+    margin-bottom: 10%;
+    background-color: aliceblue;
+    border-radius: 5px;
+  }
+  .birthday-count {
+    padding: 10px;
+  }
+  .bicontainer {
+    display: grid;
+    justify-content: end;
+  }
+  .picture {
+    display: flex;
+    padding: 10px;
+  }
+  .displaying-picture {
+    padding: 5px;
+    border-radius: 100%;
+  }
+  .name-age {
+    padding-top: 15px;
+    padding-left: 15px;
+  }
+  
+  .clear-all {
+    background-color: palevioletred;
+    color: whitesmoke;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin: 50px;
+    border-color: palevioletred;
+  }

@@ -1,0 +1,28 @@
+.main-page {
+    background-color: #4b145b;
+    display: flex;
+    flex-direction: column;
+  }
+  .heading {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+  }
+  .title-box {
+    border: 1px solid black;
+    padding: 5px;
+    padding-right: 50px;
+  }
+  .inner-content {
+    display: flex;
+    margin-left: 500px;
+  }
+  .sub-main {
+    background-color: white;
+    margin: 100px;
+    border-radius: 5px;
+  }
+  
+  .button-expantion {
+    border-radius: 50%;
+  }
