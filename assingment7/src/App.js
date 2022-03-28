@@ -1,11 +1,12 @@
 
 import React, { Component } from 'react'
-import Form from './Form'
+import Ticketbooking from './Ticketbooking';
+
 class App extends Component {
   render() {
     return (
       <div>
-        <Form/>
+        <Ticketbooking/>
       </div>
     )
   }

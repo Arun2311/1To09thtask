@@ -1,0 +1,45 @@
+.div-name,
+.div-age,
+.div-gender,
+.div-source,
+.div-destination {
+  padding: 3px;
+}
+.input-name {
+  margin-left: 100px;
+  padding: 2px;
+}
+.input-age {
+  margin-left: 220px;
+  padding: 2px;
+}
+.span-gender {
+  margin-left: 195px;
+  padding: 2px;
+}
+.radio-female {
+  margin-left: 64px;
+}
+.dropdown-source {
+  margin-left: 203px;
+  padding-right: 87px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.dropdown-destination {
+  margin-left: 173px;
+  padding-right: 87px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.label-termsandconditions {
+  margin-left: 20px;
+  padding: 2px;
+}
+.div-submit {
+  padding: 5px;
+  margin-left: 40%;
+}
+.button-submit {
+  padding: 8px;
+}
