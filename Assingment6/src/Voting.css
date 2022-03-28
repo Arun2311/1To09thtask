@@ -1,0 +1,20 @@
+.heading {
+    text-align: center;
+  }
+  .main {
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+  }
+  
+  .button {
+    font-size: large;
+    background-color: royalblue;
+    margin: 6px;
+  }
+
+
+  .span-count {
+    padding: 10px;
+  }
+ 
