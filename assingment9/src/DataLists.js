@@ -56,18 +56,18 @@ class DataLists extends Component {
               <h4 class="birthday-count">
                 {this.state.user.length} Birthdays Today
               </h4>
-              {this.state.user.map((users) => (
-                <div class="picture" key={users.id}>
+              {this.state.user.map((usersg) => (
+                <div class="picture" key={usersg.id}>
                   <img
                     className="displaying-picture"
                     alt=""
-                    src={users.image}
+                    src={usersg.image}
                     height="100"
                     width={100}
                   />
                   <span class="name-age">
-                    <h6>{users.name}</h6>
-                    <p>{users.age} years</p>
+                    <h6>{usersg.name}</h6>
+                    <p>{usersg.age} years</p>
                   </span>
                 </div>
               ))}
